@@ -1,0 +1,38 @@
+.container {
+  background-color: #ffc6c7;
+  border-radius: 1rem;
+  border-color: #ff8ba7;
+  border-width: 3px;
+  width: 300px;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.nombre {
+  font-size: 2rem;
+  background-color: #ff8ba7;
+  border-radius: 2rem;
+  padding: 5px;
+  color: white;
+}
+
+.imagen {
+  border-radius: 1rem;
+}
+
+.button {
+  border: 3px solid white;
+  background-color: #e53170;
+  width: 70px;
+  height: 70px;
+  border-radius: 0.5rem;
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+
+.button:hover {
+  background-color: #9656a1;
+  color: black;
+  transition: 1s;
+}
